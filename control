@@ -1,0 +1,9 @@
+Package: com.tr1fecta.nomorelabels
+Name: NoMoreLabels
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Description: A tweak to remove apps and folder name labels
+Maintainer: Tr1Fecta
+Author: Tr1Fecta
+Section: Tweaks
